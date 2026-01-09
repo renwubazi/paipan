@@ -83,3 +83,5 @@
 开发这个app的目的一是方便自己使用，二是为了稍微扩散点影响力赚些口粮而已。
 
 天下熙熙皆为利来，天下攘攘皆为利往。
+
+<img src="assets/appreciationCode.png"  width="400"/>
