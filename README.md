@@ -6,7 +6,7 @@
 
 ## 软件截图
 
-![WPS(2)](../../../截屏/WPS(2).png)
+<img src="assets/appScreenshot.png"  width="800"/>
 
 ## 软件优势
 
