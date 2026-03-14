@@ -86,15 +86,9 @@
 
   #### 下载
 
-  - [Releases](https://github.com/renwubazi/paipan/releases)
+  - [发布](https://github.com/renwubazi/paipan/releases)
 
-  - 百度云https://pan.baidu.com/s/1Ts1ADQ-GE-hcdX7YAvrCbg?pwd=rqv4
-
-  - 蓝奏云https://wwanp.lanzoul.com/ignyu3i33xri  密码:h49i
-
-  - 迅雷https://pan.xunlei.com/s/VOkxN6wewT6L5zknGW5-3SdJA1?pwd=amq8#
-
-  - 移动云盘https://caiyun.139.com/w/i/2sUfEKCGAqa3m 提取码:3nfj
+  - 百度云https://pan.baidu.com/s/1k9rTU1KXPBoQevLEEYVluw?pwd=fr6f 提取码: fr6f
 
     
 
